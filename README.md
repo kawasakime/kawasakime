@@ -1,9 +1,5 @@
 <div align="center">
   <header id="header">
-    <div>
-        <img src="https://komarev.com/ghpvc/?username=kawasakime&style=flat-square&color=blue" alt=""/>
-    </div>
-    <br/>
     <img width="400" src="https://media.giphy.com/media/HyOOyynWxMxig/giphy.gif"/>
     
   </header>
